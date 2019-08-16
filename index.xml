@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>林俊</title>
+    <link>https://linjungz.github.io/</link>
+    <description>Recent content on 林俊</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Sun, 14 Jul 2019 23:38:07 +0800</lastBuildDate>
+    
+	<atom:link href="https://linjungz.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello world</title>
+      <link>https://linjungz.github.io/posts/firstpost/</link>
+      <pubDate>Sun, 14 Jul 2019 23:38:07 +0800</pubDate>
+      
+      <guid>https://linjungz.github.io/posts/firstpost/</guid>
+      <description>This is my first blog.</description>
+    </item>
+    
+  </channel>
+</rss>
